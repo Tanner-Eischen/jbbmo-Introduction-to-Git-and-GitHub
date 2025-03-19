@@ -1,6 +1,6 @@
 # Introduction to Git and GitHub
 
-## Simple Interest Calculator 2023 2023
+## Simple Interest Calculator
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
